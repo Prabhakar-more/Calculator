@@ -17,4 +17,3 @@ Below is a screenshot of the calculator in action:
 
 ![Calculator Screenshot](Screenshot.png)
 
-> 📸 The image above shows the design and layout of the calculator on a dark background.
